@@ -1,3 +1,10 @@
+# Project presentation
+<a href="https://youtu.be/O1WwJ0uXl94">
+<img src="./media/FinalProject.png" alt="Click for final project video" width="300">
+</a>
+
+https://youtu.be/O1WwJ0uXl94
+
 # Client
 
 A client has approached with with the following [statement of work](./sow.md) (which is intentionally vague) for a 6 week contract. You haven't worked with this client previously, but you want to impress them with your newly assembled team. Review the [statement of work](./sow.md), self-organize, and begin!
