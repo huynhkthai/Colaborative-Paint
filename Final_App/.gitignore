@@ -1,0 +1,11 @@
+# Ignore the following file types to exclude from commits
+
+bin/
+*.o
+*.out
+*.app
+*.exe
+*.so
+*.dylib
+*.dll
+*.DS_Store
